@@ -1,3 +1,5 @@
+![Portfolio Preview](./preview.png)
+
 # 🌐 Portafolio Web — Antonio Castor Silva
 
 ## Frontend Developer Jr
